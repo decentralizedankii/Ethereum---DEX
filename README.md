@@ -16,6 +16,7 @@ git clone https://github.com/decentralizedankii/Election-DEX
 Step 2. Install dependencies
 $ cd ethereum-dex
 $ npm install
+
 Step 3. Start Ganache
 Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance.
 
